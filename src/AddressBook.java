@@ -14,6 +14,10 @@ public class AddressBook {
         }
     }
 
+    public void testMethod(){
+
+    }
+
     public boolean removeBuddy(BuddyInfo bud) {
         return buds.remove(bud);
     }
